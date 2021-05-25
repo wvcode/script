@@ -1,6 +1,6 @@
-# cli-script
+# Template de Script
 
-O cli-script é um template para projetos de script linhas de comando em nodejs.
+O script é um template para projetos de script node de linha de comando simples.
 
 Scripts de linha de comando são aqueles scripts que você utiliza no prompt de comando, chamando o executável do node, como no exemplo abaixo:
 
